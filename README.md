@@ -1,5 +1,6 @@
 # MCB 419 Homework Assignments 2019
 
+<ul>
 <li><a href="https://mcb419.github.io/hw/hw01">HW01 - simple movement</a> (due Tu, Jan 22, 9pm) ... 
 <a href="https://editor.p5js.org/mcb419/sketches/P8zeNbJ65">(solution)</a>
 </li>
